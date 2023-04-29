@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@500;700&family=Epilogue:wght@500;700&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /* list-style: none; */
+    /* font-family: Antonio; */
+}
+
+header{
+    background-image: url(./image/weight-stack\ 1.png);
+    height: 46vh;
+    background-size: cover;
+    margin: 2%;
+}
+.nav-link:hover{
+    color: blue !important;
+}
+.nav-item{
+    font-weight: 700;
+}
+.header-content{
+    font-family: Antonio;
+
+}
+.header-content p{
+    font-family: Antonio;
+    margin-top: 1rem;
+    width: 250px;
+    margin-left: 25%;
+    padding: 20px;
+    background-color:hsla(0, 0%, 0%, 0.37)
+       
+}
+.header-content p:hover{
+    background-color: black;
+}
+.grid-container{
+    max-width: 928px;
+}
+.welcome{
+    margin-left: 20%;
+    font-family: Antonio;
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.second-main h5{
+    margin-top: 1rem;
+    width: 300px;
+    padding: 17px;
+    background-color: hsla(0, 0%, 35%, 1);
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 700;
+    
+}
+.second-main h5:hover{
+    background-color: rgba(89, 89, 89, 0.59);
+
+
+}
+.second-main{
+    margin-left: 20%;
+}
+.second-main h1{
+    font-size: 38px;
+    font-weight: 700;
+    font-family: Antonio;
+    line-height: 49px;
+   
+}
+.hr{
+    color: hsla(0, 1%, 51%, 1);
+    align-items: center;
+    width: 600px;
+    margin-left: 30%;
+    position: absolute;
+    
+}
+.list{
+    margin-left: 20%;
+}
+.David{
+    margin-left: 20%;
+}
+.staff{
+    margin-left: 18%;
+    font-family: Antonio;
+    font-weight: 700;
+    font-size: 38px;
+}
+.join{
+    margin-left: 20%;
+    font-weight: 700;
+    font-family: Calibri;
+    font-style: normal;
+    font-size: 80%;
+    letter-spacing: 0.05em;
+
+   
+   
+}
+.footer-head{
+    background-color: rgba(0, 0, 0, 0.506);
+    padding: 5%;
+    
+    
+}
+.xp{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+}
+.xp p{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+}
+.footer-link{
+      width: 40%; 
+      margin-left: 30%;
+
+}
+.footer-link a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+}
